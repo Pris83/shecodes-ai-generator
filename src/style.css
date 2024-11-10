@@ -68,3 +68,7 @@ body {
     font-size: 13px;
     margin-top: 30px;
   }
+  
+  .poem strong {
+    color: #885df1;
+  }
