@@ -64,7 +64,7 @@ body {
     padding: 14px 24px;
   }
   
-  .poem {
+  .recipe {
     font-size: 16px;
     background-color: #fff;
     padding: 20px;
@@ -77,7 +77,7 @@ body {
     display: none;
   }
   
-  .poem strong {
+  .recipe strong {
     color: #885df1;
   }
   
